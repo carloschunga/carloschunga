@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Carlos Chunga
 
 - 📚 I'm a MSc Data Science and Business Analytics student at the University of Amsterdam (Amsterdam Merit Scholarship holder)
-- 💼 I have +3 years of work experience in data data science, including 2 years as manager of a team of 4 data analysts/engineers
+- 💼 I have 3+ years of work experience in data data science, including 2 years as manager of a team of 4 data analysts/engineers
 - 🌱 I’m interested in causal inference and its intersection with machine learning
 - 🔍 **I'm currently looking for job opportunities in the Netherlands**
 - 📫 You can reach me at carlosadrianchunga@gmail.com | https://www.linkedin.com/in/carlos-chunga-953b28127/
